@@ -9,7 +9,7 @@ const config = {
   title: 'wonhopark89-dev`s blog',
   tagline: '',
   url: 'https://wonhopark89-dev.github.io',
-  baseUrl: '/',
+  baseUrl: '/blog/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
